@@ -9,11 +9,7 @@
   <name>keycloak-spi</name>
   <url>http://maven.apache.org</url>
 
-  <scm>
-    <connection>scm:git:ssh://git@bitbucket.tosanltd.com:7999/tsnsec/keycloak-spi.git</connection>
-    <developerConnection>scm:git:ssh://git@bitbucket.tosanltd.com:7999/tsnsec/keycloak-spi.git</developerConnection>
-    <tag>HEAD</tag>
-  </scm>
+
 
   <properties>
     <keycloak.version>23.0.5</keycloak.version>
